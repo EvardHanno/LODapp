@@ -5,7 +5,7 @@
 This is a application that lets people working with LC-MS/MS systems to better understand the concept of limit of detection. The app creates a simulated chromatogram for which different parameters can be changed. The noise distibution and peak height distribution are also shown.
 
 ### Work to be done
-At the moment the app in under development. For example The following changes to the app needs to be made:
+At the moment the app in under development. For example the following changes to the app needs to be made:
 * Better descriptions will be added to the app;
 * S/N (peak-to-peak and noise from standard deviation) added to the chromatogram;
 * Figure 2 uses input values and not the simulated values with random values. Changing this should be concidered but this can be quite complex;
